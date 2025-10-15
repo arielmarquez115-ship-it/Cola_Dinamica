@@ -38,7 +38,6 @@ public class ColaDinamica {
     public static void imprimir(DocD aux){
         System.out.println("Nombre :  "+aux.nombre);
         System.out.println("Tamaño :  "+aux.tamaño);
-        System.out.println("Tipo   :  "+aux.tipo);
     }
     
     public static void main(String[] args) {
